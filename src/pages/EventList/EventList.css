@@ -1,0 +1,19 @@
+.event-list-wrapper {
+  width: 100%;
+  height: auto;
+  background-color: var(--bg-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.event-list {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  margin-top: 140px;
+  margin-bottom: 60px;
+}
